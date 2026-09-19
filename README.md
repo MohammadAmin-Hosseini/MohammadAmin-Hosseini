@@ -1,16 +1,23 @@
-## Hi there 👋
+### S. Mohammad Amin Hosseini
+**Plant Pathology Researcher · Molecular Plant–Pathogen Interactions · Plant Immunity**
 
-<!--
-**MohammadAmin-Hosseini/MohammadAmin-Hosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on plant disease diagnostics, plant–microbe interactions, and biologically based disease management. I build small computational tools to make pathogen diagnostics and sequence analysis easier.
 
-Here are some ideas to get you started:
+- 🔬 M.Sc. in Plant Pathology · Researcher in molecular plant pathology
+- 🧬 Interests: plant immunity, plant bacteriology & virology, fungal pathology, biocontrol, CRISPR-based diagnostics
+- 🛠️ Tools: Python · R · MEGA · BioEdit · SignalP / InterPro / Pfam · Linux basics
+- 📫 aminhosseinimohammad@gmail.com · [ORCID](https://orcid.org/0009-0005-8465-8436) · [Google Scholar](https://scholar.google.com/citations?user=k6y2hkAAAAAJ&hl=en)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Featured projects
+*(coming soon — building these now)*
+| Project | Description | Stack |
+|---|---|---|
+| dna-transcriber | DNA → RNA → protein transcription & translation app | Python · Streamlit |
+| fasta-stats | Sequence stats (GC%, N50, ambiguous bases) from FASTA | Python |
+| primer-tm-calculator | Primer Tm / GC calculator with dimer warnings | Python |
+| crispr-grna-finder | Toy CRISPR guide-RNA finder with PAM detection | Python |
+
+#### Currently learning
+RNA-seq analysis · CRISPR-Cas9 (theoretical) · Claude AI & coding (Anthropic)
