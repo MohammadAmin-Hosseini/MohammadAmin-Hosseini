@@ -6,21 +6,17 @@ I work on plant disease diagnostics, plant–microbe interactions, and biologica
 - 🔬 M.Sc. in Plant Pathology · Researcher in molecular plant pathology
 - 🧬 Interests: plant immunity, plant bacteriology & virology, fungal pathology, biocontrol, CRISPR-based diagnostics
 - 🛠️ Tools: Python · R · MEGA · BioEdit · SignalP / InterPro / Pfam · Linux basics
-- 📫 aminhosseinimohammad@gmail.com · [ORCID](https://orcid.org/0009-0005-8465-8436) · [Google Scholar](https://scholar.google.com/citations?user=k6y2hkAAAAAJ&hl=en)
+- 📫 s.ma.hosseini@ut.ac.ir · [ORCID](https://orcid.org/0009-0005-8465-8436) · [Google Scholar](https://scholar.google.com/citations?user=k6y2hkAAAAAJ&hl=en)
 
 ---
 
-#### Featured projects
-
+#### Featured project
 | Project | Description | Stack |
 |---|---|---|
-| dna-transcriber | DNA → RNA → protein transcription & translation app | Python · Streamlit |
-| fasta-stats | Sequence stats (GC%, N50, ambiguous bases) from FASTA | Python |
-| primer-tm-calculator | Primer Tm / GC calculator with dimer warnings | Python |
-| crispr-grna-finder | Toy CRISPR guide-RNA finder with PAM detection | Python |
+| [rna-sequence-analyzer](https://github.com/MohammadAmin-Hosseini/rna-sequence-analyzer) | Finds open reading frames and translates RNA/DNA sequences into proteins. Includes tests and a v0.1.0 release. | Python · Tkinter |
 
 #### Currently learning
-RNA-seq analysis · CRISPR-Cas9 (theoretical) · Claude AI & coding (Anthropic)
+RNA-seq analysis 
 
 
 [![Email](https://img.shields.io/badge/Email-aminhosseinimohammad@gmail.com-red?style=flat-square&logo=gmail)](mailto:aminhosseinimohammad@gmail.com)
