@@ -11,7 +11,7 @@ I work on plant disease diagnostics, plant–microbe interactions, and biologica
 ---
 
 #### Featured projects
-*(coming soon — building these now)*
+
 | Project | Description | Stack |
 |---|---|---|
 | dna-transcriber | DNA → RNA → protein transcription & translation app | Python · Streamlit |
